@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|e:\\t\u00E0i li\u1EC7u\\\u0111\u1ED3 \u00E1n 1\\niceniceshop\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69ADC903-3F73-4605-B84F-7DED31DFD579}|NiceNiceShop.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_LayoutMain.cshtml",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\Shared\\_LayoutMain.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutMain.cshtml",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\Shared\\_LayoutMain.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_LayoutMain.cshtml*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T17:40:31.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuLoaiVM.cs",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\ViewModels\\MenuLoaiVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MenuLoaiVM.cs",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\ViewModels\\MenuLoaiVM.cs",
-              "RelativeToolTip": "ViewModels\\MenuLoaiVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:31:46.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuloaiViewComponent.cs",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\ViewComponents\\MenuloaiViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\MenuloaiViewComponent.cs",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\ViewComponents\\MenuloaiViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\MenuloaiViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:14:05.374Z",
+              "WhenOpened": "2024-10-04T16:36:00.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T16:35:41.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\HangHoa\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
               "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Views\\HangHoa\\Index.cshtml",
               "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwC4AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T16:49:31.512Z",
+              "WhenOpened": "2024-10-04T16:35:28.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HangHoaController.cs",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Controllers\\HangHoaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\Controllers\\HangHoaController.cs*",
-              "RelativeToolTip": "Controllers\\HangHoaController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T16:48:21.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "shop.html",
-              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\wwwroot\\shop.html",
-              "RelativeDocumentMoniker": "wwwroot\\shop.html",
-              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\wwwroot\\shop.html",
-              "RelativeToolTip": "wwwroot\\shop.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAABSAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "E:\\t\u00E0i li\u1EC7u\\\u0110\u1ED2 \u00C1N 1\\NiceNiceShop\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-03T16:52:32.299Z",
+              "WhenOpened": "2024-10-04T16:32:02.806Z",
               "EditorCaption": ""
             }
           ]
